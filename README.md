@@ -7,3 +7,11 @@
 typed : y (yes)
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/d1960255-c158-4023-914a-01962233be92)
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/23159886-7c82-429a-9548-a185dd127f7e)
+### Flashing the OpenMV Firmware :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/bb977e66-09cb-411a-af59-1274741bcccf)
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/f91068b7-b339-49ac-a805-43c7f9077aa5)
+###### 1er Test :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/4b14a360-f72e-4de4-853d-50376a637be9)
+
+## 2) Deploying the ML model to the board :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/85838c87-2724-4fc4-b191-f46d3b44e2c5)
