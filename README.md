@@ -22,8 +22,8 @@ typed : y (yes)
 ### Building and Downloading The OpenMP Firmwork:
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/8e825de7-deff-4bc3-81b3-794c0c2352f3)
 
-### Testing the code on Aduino IDE (Optional):
-![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/8c5c5266-47be-4cc0-bd17-b04a043e1e58)
+### Testing the code on Aduino IDE :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/63f48a56-80be-4177-953d-ac66f4a324dc)
 
 ## 3) Connecting Arduino and pc via Bluetooth :
 ### Installing libraries : Arduino_APDS9960 & ArduinoBLE 
