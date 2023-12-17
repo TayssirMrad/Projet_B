@@ -15,3 +15,5 @@ typed : y (yes)
 
 ## 2) Deploying the ML model to the board :
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/85838c87-2724-4fc4-b191-f46d3b44e2c5)
+### Testing the code on Aduino IDE :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/8c5c5266-47be-4cc0-bd17-b04a043e1e58)
