@@ -29,7 +29,7 @@ typed : y (yes)
 ### Installing libraries : Arduino_APDS9960 & ArduinoBLE 
 
 ## 4) NodeRed Dashboard :
-![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/1a8b95b4-dd70-467e-b181-8dc0a2f11ec7)
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/6940c8f5-036e-45ea-a3cb-ed1882906425)
 
 #### Installing NodeRED :
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/38e7f41e-35d5-46d5-887c-86afb6986410)
