@@ -19,8 +19,8 @@ typed : y (yes)
 ### Testing the optimized model :
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/922fc86d-01ee-4483-b168-ee28bb04514b)
 
-### Downloading OpenMP Firmwork:
-![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/85838c87-2724-4fc4-b191-f46d3b44e2c5)
+### Building and Downloading The OpenMP Firmwork:
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/8e825de7-deff-4bc3-81b3-794c0c2352f3)
 
 ### Testing the code on OpenMP :
 
