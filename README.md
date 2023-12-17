@@ -38,10 +38,11 @@ typed : y (yes)
 
 #### For Bluetooth Connection :
 Palettes used : node-red-contrib-noble-bluetooth
+Here is a exemple of how we can print on the dashboard the transmitted data :
 
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/592b5c10-9525-44d1-b2ec-ffa9f5b33671)
 
-Here is a exemple of how we can print on the dashboard the transmitted data :
+In this project a bluetooth configuration is needed as shown below :
 
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/2405c3d5-c994-4bc0-8134-87c79c7e4acf)
 
