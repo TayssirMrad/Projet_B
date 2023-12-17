@@ -3,7 +3,13 @@
 #include <ArduinoBLE.h>
 
 BLEService myService("fff0");
+
 BLEStringCharacteristic myCharacteristic("f000aa02-0451-4000-b000-000000000000", BLEWrite | BLENotify, 20);
+// Create a Bluetooth Low Energy (BLE) String Characteristic with the specified UUID
+// UUID: "f000aa02-0451-4000-b000-000000000000"
+// Properties: BLEWrite (allows write operations) | BLENotify (allows notifications)
+// Maximum length of the string data: 20 characters
+
 
 // Advertising parameters should have a global scope. Do NOT define them in 'setup' or in 'loop'
 const uint8_t manufactData[4] = {0x01, 0x02, 0x03, 0x04};
