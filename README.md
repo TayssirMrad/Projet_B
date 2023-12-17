@@ -36,9 +36,9 @@ typed : y (yes)
 #### Launching Node-RED :
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/b8ca244c-20e1-4127-8f15-d603b3ae1678)
 
-#### For Serial Connection :
-Palettes used : node-red-node-serialport
-![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/b93cf7d3-80e9-40a3-8e88-e4e258af6a15)
-
 #### For Bluetooth Connection :
-Palettes used : node-red-contrib-ble-sense
+Palettes used : node-red-contrib-noble-bluetooth
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/592b5c10-9525-44d1-b2ec-ffa9f5b33671)
+
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/2405c3d5-c994-4bc0-8134-87c79c7e4acf)
+
