@@ -14,6 +14,15 @@ typed : y (yes)
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/4b14a360-f72e-4de4-853d-50376a637be9)
 
 ## 2) Deploying the ML model to the board :
+### Optimizing the model with EON Tuner :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/edb56d8f-df36-4275-90b8-db0114ab22b8)
+### Testing the optimized model :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/922fc86d-01ee-4483-b168-ee28bb04514b)
+
+### Downloading OpenMP Firmwork:
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/85838c87-2724-4fc4-b191-f46d3b44e2c5)
-### Testing the code on Aduino IDE :
+
+### Testing the code on OpenMP :
+
+### Testing the code on Aduino IDE (Optional):
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/8c5c5266-47be-4cc0-bd17-b04a043e1e58)
