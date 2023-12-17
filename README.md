@@ -22,7 +22,22 @@ typed : y (yes)
 ### Building and Downloading The OpenMP Firmwork:
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/8e825de7-deff-4bc3-81b3-794c0c2352f3)
 
-### Testing the code on OpenMP :
-
 ### Testing the code on Aduino IDE (Optional):
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/8c5c5266-47be-4cc0-bd17-b04a043e1e58)
+
+## 3) Connecting Arduino and pc via Bluetooth :
+### Installing libraries : Arduino_APDS9960 & ArduinoBLE 
+
+## 4) NodeRed Dashboard :
+
+#### Installing NodeRED :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/38e7f41e-35d5-46d5-887c-86afb6986410)
+#### Launching Node-RED :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/b8ca244c-20e1-4127-8f15-d603b3ae1678)
+
+#### For Serial Connection :
+Palettes used : node-red-node-serialport
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/b93cf7d3-80e9-40a3-8e88-e4e258af6a15)
+
+#### For Bluetooth Connection :
+Palettes used : node-red-contrib-ble-sense
