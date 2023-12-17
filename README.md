@@ -39,6 +39,8 @@ typed : y (yes)
 #### For Bluetooth Connection :
 Palettes used : node-red-contrib-noble-bluetooth
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/592b5c10-9525-44d1-b2ec-ffa9f5b33671)
-
+Here is a exemple of how we can print on the dashboard the transmitted data :
 ![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/2405c3d5-c994-4bc0-8134-87c79c7e4acf)
-
+In the node red, we used modules to activate and desactivate the scan and connection process (Connect & Disconnect).
+We can also see in the debugger mode the transmitted value is in the buffer section (in hex) :
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/8fe946a6-acd7-4964-9624-af7831630e78)
