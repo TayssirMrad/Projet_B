@@ -1,4 +1,8 @@
 # Projet_B
+Descriptif du projet:
+Le but de ce projet est de créer un système capable de compter des composants électroniques en se basant sur la reconnaissance et la classification d'images. Ce dispositif utilise une carte Arduino Nano 33 BLE et une caméra OV7670.
+Les composants à compter sont placés sur un espace de travail et défilent individuellement toutes les deux secondes (leur déplacement se fait manuellement). Le système effectue la reconnaissance grâce à un modèle de Deep Learning entraîné préalablement avec TensorFlow Lite ou Edge Impulse. 
+![image](https://github.com/TayssirMrad/Projet_B/assets/60198040/5b40c25e-cc23-473c-9415-ab105d92f6ea)
 
 ## 1) Getting Started with OpenMV
 ### Updating the Bootloader:
