@@ -1,4 +1,4 @@
-# Projet_B
+# Component Counter
 Descriptif du projet:
 Le but de ce projet est de créer un système capable de compter des composants électroniques en se basant sur la reconnaissance et la classification d'images. Ce dispositif utilise une carte Arduino Nano 33 BLE et une caméra OV7670.
 Les composants à compter sont placés sur un espace de travail et défilent individuellement toutes les deux secondes (leur déplacement se fait manuellement). Le système effectue la reconnaissance grâce à un modèle de Deep Learning entraîné préalablement avec TensorFlow Lite ou Edge Impulse. 
